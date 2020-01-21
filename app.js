@@ -3,11 +3,7 @@ var scores = [0, 0];
 var roundPoints = 0;
 var activePlayer = 0;
 
-//console.log(diceNo);
-
 var dice = document.getElementById('dice');
-
-//dice.src = 'dice-' + diceNo + '.png';
 
 // new game 
 const newGameBtn = document.querySelector('.btn-new');
